@@ -1,8 +1,6 @@
 public class Entrenador {
-    public static void main(String[] args) {
-        //Nombre
-        //Apellidos
-        //Nickname
-        //Edad
-    }
+    String nom;
+    String cognom;
+    String nickname;
+    int edat;
 }
